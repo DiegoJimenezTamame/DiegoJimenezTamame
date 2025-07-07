@@ -31,6 +31,16 @@ I'm a musician and software developer passionate about building **audio apps**, 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white)
 
+## 🎵 Audio & Music Tech
+
+![Ableton Live](https://img.shields.io/badge/-Ableton_Live-000000?style=flat&logo=ableton&logoColor=white)
+![Max/MSP](https://img.shields.io/badge/-Max/MSP-FF0000?style=flat&logo=max&logoColor=white)
+![Pure Data](https://img.shields.io/badge/-Pure_Data-4E91D9?style=flat&logo=pure-data&logoColor=white)
+![SuperCollider](https://img.shields.io/badge/-SuperCollider-6F42C1?style=flat&logo=supercollider&logoColor=white)
+![FMOD](https://img.shields.io/badge/-FMOD-000000?style=flat&logo=fmod&logoColor=white)
+![Sibelius](https://img.shields.io/badge/-Sibelius-003366?style=flat&logo=sibelius&logoColor=white)
+
+
 ## 🛠 Projects I'm Proud Of
 
 ### [AudioRecorderApp](https://github.com/DiegoJimenezTamame/AudioRecorderApp)  
