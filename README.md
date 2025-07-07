@@ -49,7 +49,7 @@ A tournament management tool for Magic: The Gathering players — helps organize
 
 ## 📫 Reach out!
 
-- LinkedIn: [Diego Jiménez]([https://www.linkedin.com/in/diego-jimenez-tamame](https://www.linkedin.com/in/diego-jim%C3%A9nez-tamame-ma-307aa026/))
+- LinkedIn: [Diego Jiménez]([https://www.linkedin.com/in/diego-jimenez-tamame](https://www.linkedin.com/in/diego-jim%C3%A9nez-tamame-ma-307aa026/)])
 - Email: djimeneztamame@gmail.com
 
 ---
