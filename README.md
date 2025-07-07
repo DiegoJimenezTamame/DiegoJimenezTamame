@@ -44,16 +44,16 @@ I'm a musician and software developer passionate about building **audio apps**, 
 ## 🛠 Projects I'm Proud Of
 
 ### [AudioRecorderApp](https://github.com/DiegoJimenezTamame/AudioRecorderApp)  
-A React Native app that allows users to record, save, and manage audio clips on mobile devices. Great for musicians and podcasters.
+An Android app built in Java for recording, managing, and playing audio clips with a unique Drumpad feature that lets you play recordings as musical samples — perfect for musicians and sound creators looking for an on-the-go creative tool.
 
 ### [OupheCollector](https://github.com/DiegoJimenezTamame/OupheCollector)  
-A web app for music collectors to catalog their vinyl and digital collections with ease. Built with React and Firebase.
+A mobile app to help Magic: The Gathering players organize their card collections, build decks, and create wishlists. Features card scanning with OCR and real-time card data retrieval via the Scryfall API.
 
 ### [Musician Portfolio](https://github.com/DiegoJimenezTamame/musician-portfolio)  
-A sleek and responsive portfolio template designed specifically for musicians to showcase their work and gigs.
+A clean, responsive React.js website template designed for musicians and composers to showcase their work, performances, and media, with integrated contact forms and media embedding support.
 
 ### [MTG Tournament App](https://github.com/DiegoJimenezTamame/mtg-tournament-app)  
-A tournament management tool for Magic: The Gathering players — helps organize matches, scores, and rankings.
+A React and Firebase-powered web app to organize Magic: The Gathering tournaments featuring Swiss pairings, live standings, match tracking, and cloud data synchronization for event organizers.
 
 ## 📈 GitHub Stats
 
